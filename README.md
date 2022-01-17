@@ -7,5 +7,4 @@ Certain projects are under an NDA and thus not allowed to be viewed publicly. So
 
 ### Remaining projects
 
-<a href="/">Bootleg Bloomberg:</a>
-  <a href="/bloomy.html">Bloomy</a>
+<a href="/bloomy.html">Bootleg Bloomberg:</a> An options focused application built in MATLAB for analysis of markets and options term structures. Uses Yahoo Finance API for data.
