@@ -7,4 +7,5 @@ Certain projects are under an NDA and thus not allowed to be viewed publicly. So
 
 ### Remaining projects
 
-Bootleg Bloomberg: 
+<a href="/">Bootleg Bloomberg:</a>
+  <a href="/bloomy.html">Bloomy</a>
