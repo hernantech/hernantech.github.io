@@ -8,7 +8,7 @@ Certain projects are not published for public viewing. If it's not listed below,
 ### Remaining projects
 
 
-<a href="/HR23_VCU_Firmware/html/index.html">FSAE Electric Vehicle Firmware :</a> Firmware versions and a library of functions for FSAE regulation-compliant EV racecar control electronics. Consists of a library for device interactions (Vehicle control unit, Battery Management System, Motor Controller) using industry-standard technologies and protocols (CANBUS, etc).
+<a href="https://hernantech.github.io/HR23_VCU_Firmware/html/index.html">FSAE Electric Vehicle Firmware :</a> Firmware versions and a library of functions for FSAE regulation-compliant EV racecar control electronics. Consists of a library for device interactions (Vehicle control unit, Battery Management System, Motor Controller) using industry-standard technologies and protocols (CANBUS, etc).
 
 
 <a href="/bloomy.html">Bootleg Bloomberg :</a> An options focused application built in MATLAB for analysis of markets and options term structures. Uses Yahoo Finance API for data.
