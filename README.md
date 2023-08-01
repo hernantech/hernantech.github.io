@@ -7,7 +7,7 @@ Certain projects are not published for public viewing. If it's not listed below,
 
 ### Remaining projects
 
-<a href="https://github.com/hernantech/Lab_Equipment"> Physics Research lab, code operates asynchronous equipment for Magnonics experiments. Uses VXI-11, GPIB, and other communication protocols. Object oriented design and SOLID principles, etc.
+<a href="https://github.com/hernantech/Lab_Equipment"> Physics Research lab :</a> Code to operate asynchronous equipment for Magnonics experiments. Uses VXI-11, GPIB, and other communication protocols. Object oriented design and SOLID principles, etc. Emphasizes reliability, error-checks, interoperability with older hardware, and maximizing sample rates.
 
 
 <a href="https://hernantech.github.io/HR23_VCU_Firmware/html/index.html">FSAE Electric Vehicle Firmware :</a> Firmware versions and a library of functions for FSAE regulation-compliant EV racecar control electronics. Consists of a library for device interactions (Vehicle control unit, Battery Management System, Motor Controller) using industry-standard technologies and protocols (CANBUS, etc).
